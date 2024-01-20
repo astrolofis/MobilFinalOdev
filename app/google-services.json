@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34905531452",
+    "project_id": "mobildeneme-cb832",
+    "storage_bucket": "mobildeneme-cb832.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34905531452:android:5c1e39e3b96673a3b24f39",
+        "android_client_info": {
+          "package_name": "com.example.mobilfinalodev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXf4jAmRziEOWkOsCQUC2jb8lEXjSNaMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
